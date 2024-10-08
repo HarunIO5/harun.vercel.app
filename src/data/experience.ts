@@ -44,7 +44,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     company: "Multiple Financial Institutions",
     // companyUrl: "https://www.miinto.com",
     description:
-      "Designed and implemented a Security Automation Workflows for the some of the biggest financial institutions in the world using Okta, Microsoft AD, Splunk SOAR, ServiceNow, and more. Worked on automating security incidents such as phishing, malware, ransomware, and more.",
+      "Designed and implemented multiple complex and sophisticated Security Automation Workflows for the some of the biggest financial institutions in the world using Okta, Microsoft AD, Splunk SOAR, ServiceNow, and more. Worked on automating security incidents such as phishing, malware, ransomware, and more.",
     technologies: ["Okta", "Microsoft AD", "Splunk SOAR", "ServiceNow", "Splunk Enterprise Security", "Microsoft Sentinel", "Microsoft 365 Defender"],
     // logo: "/logos/miinto.jpeg",
   },
