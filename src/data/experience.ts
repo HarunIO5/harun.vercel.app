@@ -7,7 +7,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     company: "Njoya Studios Site",
     companyUrl: "https://www.njoyastudios.com/",
     description:
-      "Architected and engineered njoyastudios.com, utilizing technologies such as NextJs, TailwindCSS, NextUI, React Three Fiber, Sanity CMS and more. Worked on bring my client's vision to life using the latest technologies and best practices.",
+      "Architected and engineered njoyastudios.com, utilizing technologies such as NextJs, TailwindCSS, NextUI, React Three Fiber, Sanity CMS and more. Worked on bringing my client's vision to life using the latest technologies and best practices.",
     technologies: [
       "Next.js",
       "TailwindCSS",
@@ -54,7 +54,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     company: "Diffused",
     companyUrl: "https://www.diffused.agency",
     description:
-      "Worked on developing agency site for diffused using NextJS, TailwindCSS, Shopify API, Framer Motion, Sanity CMS and more. Worked on bring the agency's vision to life using the latest technologies and best practices.",
+      "Worked on developing agency site for diffused using NextJS, TailwindCSS, Shopify API, Framer Motion, Sanity CMS and more. Worked on bringing the agency's vision to life using the latest technologies and best practices.",
     technologies: ["Next.js", "TailwindCSS", "Shopify API", "Framer Motion", "Sanity CMS", "Node.JS"],
     // logo: "/logos/efigence.jpeg",
   },
