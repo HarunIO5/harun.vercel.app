@@ -2,7 +2,7 @@ import type { Props as ExperienceProp } from "../components/experience/props";
 
 export const EXPERIENCE: ExperienceProp[] = [
   {
-    dates: "Project #1",
+    dates: "Showcase #1",
     title: "Principal Engineer",
     company: "Njoya Studios Site",
     companyUrl: "https://www.njoyastudios.com/",
@@ -20,7 +20,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     // logo: "/logos/dutchpet.jpeg",
   },
   {
-    dates: "Project #2",
+    dates: "Showcase #2",
     title: "Principal Engineer",
     company: "Kyza AI",
     companyUrl: "https://www.kyza.ai",
@@ -39,7 +39,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     // logo: "/logos/aws.jpeg",
   },
   {
-    dates: "Project #3",
+    dates: "Showcase #3",
     title: "Senior Security Engineer",
     company: "Multiple Financial Institutions",
     // companyUrl: "https://www.miinto.com",
@@ -49,7 +49,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     // logo: "/logos/miinto.jpeg",
   },
   {
-    dates: "Project #4",
+    dates: "Showcase #4",
     title: "Principal Engineer",
     company: "Diffused",
     companyUrl: "https://www.diffused.agency",
